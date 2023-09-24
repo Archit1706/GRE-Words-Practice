@@ -1,6 +1,7 @@
 # GRE-Words-Practice
 A python tkinter based GUI for learning GRE words.
 
+### LEARN HERE - [Flashy](https://replit.com/@ArchitRathod1/GRE-Words-Practice)
 ## Sample
 
 1. Word - Card(Front)
